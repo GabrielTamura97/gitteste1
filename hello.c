@@ -3,6 +3,6 @@
   int main(){
   	int ret;
   	ret = soma (2,3);
-    printf("O resultado e: teste" %d, ret);
+    printf("O resultado e:" %d, ret);
     return 0;
   }
